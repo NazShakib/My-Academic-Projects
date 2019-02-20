@@ -12,7 +12,7 @@ CSE245 -Algorithm (C++) Zoo Management (Djkstra, Wrshall's and 0-1 knapsack algo
 
 CSE350 -Data Communication (C++) Bitwise Data transfer from recever to sender
 
-CSE365 -Atificial Itelligence(Android,Sudoku game) (using DFS algorithm )
+CSE365 -Atificial Itelligence(Android,JAVA,Sudoku game) (using DFS algorithm )
 
 CSE375 -compilar(Email pattern,University's ID pattern and Calculator pattern) using ANTLR4
 
