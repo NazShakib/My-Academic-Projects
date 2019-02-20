@@ -1,0 +1,5 @@
+
+SET CLASSPATH=.;C:\Javalib\antlr4-complete.jar;%CLASSPATH%
+antlr4 Id.g4
+javac Id*.java
+grun Id id sample.txt -gui

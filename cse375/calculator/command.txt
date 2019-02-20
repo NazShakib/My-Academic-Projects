@@ -1,0 +1,4 @@
+SET CLASSPATH=.;C:\Javalib\antlr4-complete.jar;%CLASSPATH%
+antlr4 Calculator.g4
+javac Calculator*.java
+grun Calculator prog calculator.txt -gui

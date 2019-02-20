@@ -1,0 +1,4 @@
+SET CLASSPATH=.;C:\Javalib\antlr4-complete.jar;%CLASSPATH%
+antlr4 experiment.g4
+javac experiment*.java
+grun experiment prog email.txt -gui
