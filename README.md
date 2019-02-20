@@ -2,7 +2,7 @@
 My Academic All projects are here.
 
 
-CSE107 -Object Oriated Programming (C++) shopping system
+CSE107 -Object Orianted Programming (C++) shopping system
 
 CSE205 -DIscrete Mathematics(C++) comparison linear and binary search using timer
 
