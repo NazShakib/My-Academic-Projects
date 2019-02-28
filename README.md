@@ -10,7 +10,7 @@ CSE207 -Data Structure(C++) Blood Bank & Pharmacy using double linklist
 
 CSE245 -Algorithm (C++) Zoo Management (Djkstra, Wrshall's and 0-1 knapsack algorithm) & lab work
 
-CSE350 -Data Communication (C++) Bitwise Data transfer from recever to sender
+CSE350 -Data Communication (C++) Bitwise Data transfer from sender to receiver
 
 CSE365 -Atificial Itelligence(Android,JAVA,Sudoku game) (using DFS algorithm )
 
