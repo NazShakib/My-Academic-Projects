@@ -20,3 +20,6 @@ CSE405 -Introduction of Networking(Using packet tracer create a formation of a u
 
 CSE411 -Software Engineering (online shopping using BOOTSTRAP4,CSS & HTML)
 
+CSE475 -Machine Learning(diabetes data set(imput,normalization & scaling), 7 types of algorithms alppied)
+
+CSE477 -Data Mining(Two dataset, 4 algrithms)
